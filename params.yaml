@@ -1,0 +1,13 @@
+LoggingFileName: "Log.txt"
+
+Loading:
+  Model_name: "CLMquantizedModel.pt"
+  TokenizerDir: "Tokenizer/"
+
+Generate:
+  max_length: 80
+  do_sample: True
+  top_p: 0.95
+  top_k: 60
+
+

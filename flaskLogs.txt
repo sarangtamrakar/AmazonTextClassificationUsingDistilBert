@@ -1,0 +1,66 @@
+2021-07-15 14:23:36,464  INFO root Model Loaded
+2021-07-15 14:23:36,466  WARNING werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-15 14:23:36,466  INFO werkzeug  * Running on http://192.168.43.243:5000/ (Press CTRL+C to quit)
+2021-07-15 14:24:08,375  INFO root Model Loaded
+2021-07-15 14:24:08,377  WARNING werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-07-15 14:24:08,377  INFO werkzeug  * Running on http://192.168.43.243:5000/ (Press CTRL+C to quit)
+2021-07-15 14:24:30,077  INFO werkzeug 127.0.0.1 - - [15/Jul/2021 14:24:30] "GET / HTTP/1.1" 200 -
+2021-07-15 14:24:45,404  INFO root Get the Text Data : I am sarang tamrakar from DLCVNLP batch.
+2021-07-15 14:24:46,049  INFO root Prediction Value : 5Rating
+2021-07-15 14:24:46,050  INFO werkzeug 127.0.0.1 - - [15/Jul/2021 14:24:46] "POST /predict HTTP/1.1" 200 -
+2021-07-15 14:25:50,229  INFO root Model Loaded
+2021-07-15 14:25:50,229  INFO root Model Loaded
+2021-07-15 14:26:06,153  INFO root Get the Text Data : This product is worst.
+2021-07-15 14:26:06,858  INFO root Prediction Value : 1 Rating
+2021-07-15 14:26:16,277  INFO root Get the Text Data : This product is Best.
+2021-07-15 14:26:16,973  INFO root Prediction Value : 5 Rating
+2021-07-15 14:26:23,555  INFO root Get the Text Data : This product is Better.
+2021-07-15 14:26:24,112  INFO root Prediction Value : 5 Rating
+2021-07-15 14:26:35,950  INFO root Get the Text Data : This product is not very Good.
+2021-07-15 14:26:36,516  INFO root Prediction Value : 2 Rating
+2021-07-15 14:27:52,692  INFO root Model Loaded
+2021-07-15 14:27:52,741  INFO root Model Loaded
+2021-07-15 14:28:09,597  INFO root Model Loaded
+2021-07-15 14:28:09,617  INFO root Model Loaded
+2021-07-15 14:29:42,594  INFO root Model Loaded
+2021-07-15 14:29:42,596  INFO werkzeug  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-15 14:30:15,665  INFO root Get the Text Data : This Product is not very Good.
+2021-07-15 14:30:16,381  INFO root Prediction Value : 2 Rating
+2021-07-15 14:30:24,327  INFO root Get the Text Data : This Product is Good.
+2021-07-15 14:30:25,028  INFO root Prediction Value : 5 Rating
+2021-07-15 14:30:42,970  INFO root Get the Text Data : Mobile device is outperforming.
+2021-07-15 14:30:43,554  INFO root Prediction Value : 4 Rating
+2021-07-15 14:30:55,936  INFO root Get the Text Data : Mobile device is outperforming best.
+2021-07-15 14:30:56,520  INFO root Prediction Value : 5 Rating
+2021-07-15 14:31:05,375  INFO root Get the Text Data : Mobile device is outperforming Worst.
+2021-07-15 14:31:05,947  INFO root Prediction Value : 5 Rating
+2021-07-15 14:31:14,390  INFO root Get the Text Data : Mobile device is Performing Worst.
+2021-07-15 14:31:15,060  INFO root Prediction Value : 1 Rating
+2021-07-15 14:31:50,903  INFO root Model Loaded
+2021-07-15 14:35:06,303  INFO root Model Loaded
+2021-07-15 14:35:06,366  INFO root Model Loaded
+2021-07-15 14:35:24,989  INFO root Get the Text Data : This Product is worst.
+2021-07-15 14:35:25,673  INFO root Prediction Value : 1 Rating
+2021-07-15 14:35:36,725  INFO root Get the Text Data : This Product is BEST.
+2021-07-15 14:35:37,275  INFO root Prediction Value : 5 Rating
+2021-07-15 14:35:40,475  INFO root Model Loaded
+2021-07-15 14:36:29,227  INFO root Get the Text Data : This dress suited on me very well.
+2021-07-15 14:36:29,772  INFO root Prediction Value : 5 Rating
+2021-07-15 14:36:40,659  INFO root Get the Text Data : This dress suited on me very bad.
+2021-07-15 14:36:41,369  INFO root Prediction Value : 5 Rating
+2021-07-15 14:36:47,411  INFO root Get the Text Data : This dress suited on me  bad.
+2021-07-15 14:36:48,095  INFO root Prediction Value : 5 Rating
+2021-07-15 14:36:52,947  INFO root Get the Text Data : This dress suited on me bad.
+2021-07-15 14:36:53,529  INFO root Prediction Value : 5 Rating
+2021-07-15 14:37:09,758  INFO root Get the Text Data : This product is worst.
+2021-07-15 14:37:10,333  INFO root Prediction Value : 1 Rating
+2021-07-15 14:37:27,192  INFO root Get the Text Data : This product preforming Best.
+2021-07-15 14:37:27,737  INFO root Prediction Value : 5 Rating
+2021-07-15 14:37:35,953  INFO root Get the Text Data : This product preforming Bad.
+2021-07-15 14:37:36,628  INFO root Prediction Value : 1 Rating
+2021-07-15 14:37:47,825  INFO root Get the Text Data : This dress is Bad.
+2021-07-15 14:37:48,400  INFO root Prediction Value : 1 Rating
+2021-07-15 14:38:11,577  INFO root Get the Text Data : This dress is suited on me very Bad.
+2021-07-15 14:38:12,156  INFO root Prediction Value : 5 Rating

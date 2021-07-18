@@ -1,0 +1,5 @@
+Three ways===:
+
+1. authbind gunicorn --bind=0.0.0.0:8080 --workers=2 main:app
+2. gunicorn --bind=0.0.0.0:8080 --workers=2 main:app
+3. python main.py
